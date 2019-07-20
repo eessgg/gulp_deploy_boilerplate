@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Ester Gomes <estergomesdesign@gmail.com> (https://estergomes.com/)",
+  "author": "Ester Gomes",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^9.6.1",
